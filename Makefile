@@ -1,4 +1,4 @@
-COURSE = 
+COURSE = simulation-networks
 
 .PHONY: all clean
 
